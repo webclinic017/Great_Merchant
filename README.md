@@ -2,5 +2,3 @@
 An attempt at algorithmic investment using Zerodha's KiteConnect API.
 The odd repository name is because I've been playing a good amount of Civilization 5 lately.
 
-The LIVE Deployment has given me 31.1% return on investment per quarter since March 2020.
-
